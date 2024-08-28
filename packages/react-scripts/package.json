@@ -78,7 +78,7 @@
     "thread-loader": "^3.0.4",
     "ts-pnp": "1.2.0",
     "url-loader": "4.1.1",
-    "webpack": "^4.46.0",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^3.11.3",
     "webpack-manifest-plugin": "^2.2.0",
     "webpack-subresource-integrity": "^1.5.2",
